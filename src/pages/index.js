@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 
 export default () => (
   <div>
-    <p>Hello Gatsby!</p>
+    <p>Hello!</p>
     <Link to="/account">Go to your account</Link>
   </div>
 )
