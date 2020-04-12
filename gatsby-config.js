@@ -5,6 +5,5 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: []
+  pathPrefix: "/tmp_gatsby_auth0_1",
 }
